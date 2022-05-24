@@ -11,5 +11,8 @@
     },
     "devDependencies": {
         "typescript": "^4.7.1-rc"
+    },
+    "dependencies": {
+        "playwright": "^1.22.2"
     }
 }
