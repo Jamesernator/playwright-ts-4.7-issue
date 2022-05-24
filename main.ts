@@ -1,1 +1,3 @@
-import playwright from "playwright";
+import { chromium } from "playwright";
+
+console.log(chromium);
