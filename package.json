@@ -10,7 +10,7 @@
         "build": "tsc --build"
     },
     "devDependencies": {
-        "typescript": "^4.7.1-rc"
+        "typescript": "^4.7.2"
     },
     "dependencies": {
         "playwright": "^1.22.2"
